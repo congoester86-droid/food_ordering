@@ -1,50 +1,46 @@
-# Welcome to your Expo app 👋
+# Mukanda App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicação móvel para gestão e rastreamento de entregas em tempo real, desenvolvida como Projecto de Fim de Curso.
 
-## Get started
+## Sobre o projecto
 
-1. Install dependencies
+O Mukanda App foi desenvolvido para facilitar a gestão de pedidos e entregas, permitindo a integração entre clientes, estabelecimentos e estafetas.
 
-   ```bash
-   npm install
-   ```
+A aplicação procura melhorar o acompanhamento das entregas através de geolocalização, actualizações de estado e comunicação entre os intervenientes.
 
-2. Start the app
+## Principais funcionalidades
 
-   ```bash
-   npx expo start
-   ```
+- Autenticação de utilizadores
+- Gestão de pedidos
+- Rastreamento de entregas
+- Geolocalização
+- Integração de mapas
+- Actualizações em tempo real
+- Notificações
+- Histórico de pedidos
+- Gestão de perfil
 
-In the output, you'll find options to open the app in a
+## Tecnologias
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- NativeWind / Tailwind CSS
+- Zustand
+- Appwrite
+- React Native Maps
+- expo-location
+- expo-notifications
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Contexto académico
 
-## Get a fresh project
+Projecto de Fim de Curso da Licenciatura em Ciências da Computação.
 
-When you're ready, run:
+Desenvolvimento individual.
 
-```bash
-npm run reset-project
-```
+## Autora
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Ester Isabel Congo
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[LinkedIn](https://www.linkedin.com/in/ester-congo-731456259)
