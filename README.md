@@ -20,6 +20,14 @@ A aplicação procura melhorar o acompanhamento das entregas através de geoloca
 - Histórico de pedidos
 - Gestão de perfil
 
+Vídeo de demonstração do Mukanda App, apresentando as principais funcionalidades da aplicação móvel com os 4 perfis (cliente, comerciante, entregador e o administrador)
+
+https://github.com/user-attachments/assets/e8b3c1d0-912e-4ddc-98f9-fd9d4ba6e5e7
+
+
+https://github.com/user-attachments/assets/a06441e8-ab20-4629-8ac2-61ec23608382
+
+
 ## Tecnologias
 
 - React Native
